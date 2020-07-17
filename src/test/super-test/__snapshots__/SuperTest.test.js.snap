@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[COMPONENT] SuperTest renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p>
+      SuperTest
+    </p>
+    <p
+      id="count"
+    >
+      0
+    </p>
+    <button>
+      PressMe
+    </button>
+  </div>
+</div>
+`;

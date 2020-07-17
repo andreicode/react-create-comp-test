@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[COMPONENT] YellowSquare renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p>
+      YellowSquare
+    </p>
+  </div>
+</div>
+`;
