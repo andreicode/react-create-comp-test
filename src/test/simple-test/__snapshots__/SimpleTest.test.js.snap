@@ -27,17 +27,6 @@ exports[`[COMPONENT] SimpleTest renders correctly 1`] = `
       Cannot click me
     </button>
     <br />
-    <button
-      data-testid="enableBtn"
-    >
-      Can click me
-    </button>
-    <br />
-    <span
-      data-testid="btnMessage"
-    >
-       
-    </span>
   </div>
 </div>
 `;
