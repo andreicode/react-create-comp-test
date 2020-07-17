@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm create-component path-to/test/etc/component-name`
+### `npm run create-component path-to/test/etc/component-name`
 
 Creates a component in the specified path. The name of the component is the last folder in the path (in the above case is component-name => ComponentName)
 
