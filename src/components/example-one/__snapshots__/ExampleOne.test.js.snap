@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[COMPONENT] ExampleOne renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p>
+      ExampleOne111
+    </p>
+  </div>
+</div>
+`;

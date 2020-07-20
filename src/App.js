@@ -3,6 +3,7 @@ import './App.css';
 import SuperTest from './test/super-test';
 import GreenSquare from './components/green-square';
 import YellowSquare from './components/yellow-square';
+import ExampleOne from './components/example-one';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <SuperTest/>
       <GreenSquare />
       <YellowSquare />
+      <ExampleOne/>
     </div>
   );
 }

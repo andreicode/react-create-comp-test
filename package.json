@@ -18,7 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "create-component": "node ./commands/create-component.js"
+    "create-component": "node ./commands/create-component.js",
+    "create-test": "node ./commands/create-test.js"
   },
   "eslintConfig": {
     "extends": "react-app"
