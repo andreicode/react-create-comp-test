@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[COMPONENT] SimpleTest renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p>
+      SimpleTest
+    </p>
+    Display number: 
+    <span
+      data-testid="number-display"
+    />
+    <br />
+    Instance id: 
+    <span
+      data-testid="instance-id"
+    >
+      2
+    </span>
+    <br />
+    <button
+      data-testid="disabledBtn"
+      disabled=""
+    >
+      Cannot click me
+    </button>
+    <br />
+  </div>
+</div>
+`;
