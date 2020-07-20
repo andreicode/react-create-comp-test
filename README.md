@@ -6,6 +6,10 @@ In the project directory, you can run:
 
 Creates a component in the specified path. The name of the component is the last folder in the path (in the above case is component-name => ComponentName)
 
+### `npm run create-test path-to-existent/component-folder ComponentName`
+
+Creates a test in the specified path.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
